@@ -1,0 +1,22 @@
+
+
+ul {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 60px;
+    list-style: none;
+}
+
+a {
+    color: black;
+    font-family: Montserrat;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 15px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-transform: uppercase;
+    text-decoration: none;
+
+}
