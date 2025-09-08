@@ -178,13 +178,5 @@ h4 {
   line-height: 1.5;
 }
 
-/* Адаптив */
-@media (max-width: 768px) {
-  .offer-title {
-    font-size: 24px;
-  }
-  .offer-form input {
-    width: 100%;
-  }
-}
+
 
