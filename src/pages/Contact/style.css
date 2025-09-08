@@ -1,0 +1,73 @@
+img{
+    width: 900px;
+
+}
+
+.dv-rasm{
+    text-align: center;
+}
+
+b{
+    color: #01AEE7;
+}
+
+.ayubxon-a{
+    color: #01AEE7;
+    text-decoration: underline;
+}
+
+h3{
+    font-size: 22px;
+}
+
+.karta{
+    width: 700px;
+    height: 650px;
+}
+
+.orash{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+.right{
+    background-color: #D9D9D9;
+    width: 700px;
+    height: 650px;
+    padding-top: 100px;
+    padding-left: 80px;
+}
+
+
+
+.top-1{
+    background-color: #01AEE7;
+
+    text-align: center;
+}
+
+
+
+
+h5{
+    color: yellow;
+
+    text-align: center;
+    font-size: 20px;
+    font-weight: 300;
+}
+
+
+.top-1 h3{
+    color: white;
+    font-size: 30px;
+}
+
+
+.top-1 h4{
+
+    color: white;
+    font-size: 22px;
+}
